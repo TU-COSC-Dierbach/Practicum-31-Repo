@@ -16,7 +16,8 @@ public class IntList {
     // Check if list empty. If so, make first node.
 
     
-    // if not empty, search for last node and append
+    // if not empty, inserts where needed to keep
+    // the list of values in numerical order
 
 
 

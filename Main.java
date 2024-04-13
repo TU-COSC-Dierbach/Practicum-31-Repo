@@ -13,7 +13,7 @@ class Main {
     nums_list.insert(40);
 
     // Test 2
-    System.out.println("Expected output: " + 40);
+    System.out.println("Expected output: 40");
     nums_list.displayList();
     System.out.println();
 
@@ -22,8 +22,7 @@ class Main {
     nums_list.append(30);
 
     // Test 3
-    System.out.println("Expected output: " + 10 30 40);
+    System.out.println("Expected output: 10 30 40");
     num_list.displayList();
   }
-
 }
